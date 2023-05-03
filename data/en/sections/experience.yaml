@@ -11,54 +11,69 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Bloomberg
+    url: "https://www.bloomberg.com/"
+    location: New York
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: I worked on the Ticker Plant Capacity and Performance team, which ensures that data from exchanges is processed reliably and efficiently.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Software Engineering Intern
+    start: August 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: December 2022
     # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    responsibilities: 
+    - Investigated algorithms and methods for the detection of performance regressions in a system processing realtime financial data, ensuring the availability of a system used by major financial corporations
+    - Chose an anomaly detection algorithm suitable for the type of metric data available by evaluating the precision and recall of methods on sample data from the system
+    - Designed and implemented an application which uses the proposed algorithm to detect performance regressions, resolving issues before they impact clients
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Waabi
+    url: "https://waabi.ai/"
+    location: Toronto
+    overview: Waabi is developing software for autonomous trucking. My research was advised by Raquel Urtasun and Sergio Casas.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Research Intern
+    start: May 2022
+    end: August 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Developed and optimized trajectory prediction models to give the best predictions for vehicles that are important to the planning module of Waabi’s self-driving software, improving prediction metrics for these vehicles by 10%
+    - Presented a paper at an internal conference, reviewed other submissions for the conference and participated in discussions about presented topics
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Cryptography, Security, and Privacy Lab, University of Waterloo
+    url: "https://crysp.uwaterloo.ca/"
+    location: Waterloo
+    overview: I worked independently on a research project under Florian Kerschbaum and Ehsan Amjadian.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Undergraduate Research Fellow
+    start: September 2021
+    end: April 2022
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Created a novel distributed anomaly detection system for PDF documents by clustering encrypted confidential data, allowing multiple parties to share early warnings about potential malware
+    - Designed a custom PyTorch autoencoder to convert extracted features to a format suitable for inner product encryption, allowing distance computation between encrypted feature vectors without exposing other information
+    - Made architecture resilient against adversarial attacks by training autoencoder to be robust against small changes in PDFs, decreasing the number of misclassifications caused by such modifications by 50%
+    - Designed custom clustering algorithm to identify classes of similar PDFs based on distances between feature vectors, correctly grouping 94% of similar PDFs together and identifying 89% of existing classes
+    - See here for details
+  - designation: Undergraduate Research Assistanceship
+    start: May 2021
+    end: August 2021
+    responsibilities:
+    - Created and implemented a new algorithm that reduces inequality comparisons over homomorphically encrypted data to a linear number of equality comparisons
+    - Significantly increased number of calculations possible over homomorphically encrypted data by reducing the amount of consecutive multiplications to a desired level while increasing the number of overall multiplications
+    - See here for details
+
+- company:
+    name: Side Effects Software
+    url: "https://www.sidefx.com/"
+    location: Toronto
+    overview: Side Effects create Houdini, a software used for creating 3D effects in video games and movies.
+  positions:
+  - designation: 3D Software Developer
+    start: January 2021
+    end: April 2021
+    responsibilities:
+    - Created prototypes for a new editing tool in the Houdini 3D modeling and special effects software using C++, allowing users to reduce the stretching or contraction of texture maps
+    - Computed optimal shapes of triangles in mesh and used Least Squares Conformal Mapping algorithm with these shapes to obtain a modified texture map whose stretching and contraction is automatically reduced
+    - Allowed redistribution of stretching and contraction of texture maps through user-defined weights by using a harmonic map
+    - See here for details
