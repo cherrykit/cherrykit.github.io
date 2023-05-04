@@ -41,7 +41,7 @@ degrees:
       achieved: 100
       outOf: 100
     - name: Compiler Construction
-      achieved: 0
+      achieved: 98
       outOf: 100
     - name: Real-Time Programming
       achieved: 88

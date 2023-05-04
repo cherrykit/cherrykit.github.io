@@ -19,7 +19,23 @@ designation: Recent Computer Science Graduate
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Hi I am cute'
+summary: >
+  Hi! My name is Sophia and I'm passionate about doing research in multi-task
+  reinforcement learning and meta reinforcement learning. I graduated with a
+  Bachelor of Computer Science from the University of Waterloo in April 2023
+  and am currently looking for research opportunities!
+   
+
+  I have research experience in both industry and academia, having dedicated eight
+  months to full-time research and an additional eight months doing part-time research
+  alongside a full-time course load. In the past, I have worked on designing new machine
+  learning architectures and have developed my academic writing skills through 
+  documentation of my research.
+   
+   
+  Outside of work, I enjoy cooking, doing art, playing video games and taking walks outside!
+
+
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -56,8 +72,8 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+- title: "My CV"
+  url: "files/cv.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

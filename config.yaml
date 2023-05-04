@@ -94,15 +94,15 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: false
+      enable: true
       # Share post on different social media
-      shareButtons:
-        facebook: true
-        twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: true
-        email: true
+      # shareButtons:
+      #   facebook: true
+      #   twitter: true
+      #   linkedin: true
+      #   reddit: true
+      #   whatsapp: true
+      #   email: true
         # tumblr: true
         # pocket: true
         # diaspora: true
@@ -185,7 +185,7 @@ params:
 
     # Show tags under the post title
     tags:
-      enable: true
+      enable: false
 
     # Specify whether to show flag in the language selector. Default is true.
     flags:

@@ -24,7 +24,7 @@ projects:
   role: Group Member
   timeline: "September 2020 - December 2020"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "#"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  url: "/posts/connect4/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: We trained Connect 4 agents using Temporal Difference Learning and modified the reward function to allow agent to train against an existing optimal agent.
   tags: ["machine-learning", "research"]
 
@@ -33,7 +33,7 @@ projects:
   role: Group Member
   timeline: "January 2023 - April 2023"
   #repo: 
-  url: "#"
+  url: "/posts/compiler/"
   summary: A full compiler for the Joos 1W subset of Java, written in C++. Includes, lexing, parsing, type checking, dataflow analyses, instruction selection and optimizations such as constant propagation and register allocation.
   tags: ["software-dev"]
 

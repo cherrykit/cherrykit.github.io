@@ -54,14 +54,14 @@ experiences:
     - Designed a custom PyTorch autoencoder to convert extracted features to a format suitable for inner product encryption, allowing distance computation between encrypted feature vectors without exposing other information
     - Made architecture resilient against adversarial attacks by training autoencoder to be robust against small changes in PDFs, decreasing the number of misclassifications caused by such modifications by 50%
     - Designed custom clustering algorithm to identify classes of similar PDFs based on distances between feature vectors, correctly grouping 94% of similar PDFs together and identifying 89% of existing classes
-    - See here for details
+    - See [here](/posts/urf) for details
   - designation: Undergraduate Research Assistanceship
     start: May 2021
     end: August 2021
     responsibilities:
     - Created and implemented a new algorithm that reduces inequality comparisons over homomorphically encrypted data to a linear number of equality comparisons
     - Significantly increased number of calculations possible over homomorphically encrypted data by reducing the amount of consecutive multiplications to a desired level while increasing the number of overall multiplications
-    - See here for details
+    - See [here](/posts/ura) for details
 
 - company:
     name: Side Effects Software
@@ -76,4 +76,4 @@ experiences:
     - Created prototypes for a new editing tool in the Houdini 3D modeling and special effects software using C++, allowing users to reduce the stretching or contraction of texture maps
     - Computed optimal shapes of triangles in mesh and used Least Squares Conformal Mapping algorithm with these shapes to obtain a modified texture map whose stretching and contraction is automatically reduced
     - Allowed redistribution of stretching and contraction of texture maps through user-defined weights by using a harmonic map
-    - See here for details
+    - See [here](/posts/sideFX) for details
