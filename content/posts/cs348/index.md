@@ -5,7 +5,7 @@ description: "PokeDB: Information and Team Suggestions for your Pokemon"
 menu:
   sidebar:
     name: Pokemon Web Application
-    identifier: sideFX
+    identifier: cs348
     weight: 10
 # tags: []
 # categories: []
