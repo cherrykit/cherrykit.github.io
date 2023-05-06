@@ -74,6 +74,8 @@ socialLinks:
 resourceLinks:
 - title: "My CV"
   url: "files/cv.pdf"
+- title: "My Transcript"
+  url: "files/transcript.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
