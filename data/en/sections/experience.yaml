@@ -76,4 +76,4 @@ experiences:
     - Created prototypes for a new editing tool in the Houdini 3D modeling and special effects software using C++, allowing users to reduce the stretching or contraction of texture maps
     - Computed optimal shapes of triangles in mesh and used Least Squares Conformal Mapping algorithm with these shapes to obtain a modified texture map whose stretching and contraction is automatically reduced
     - Allowed redistribution of stretching and contraction of texture maps through user-defined weights by using a harmonic map
-    - See [here](/posts/sideFX) for details
+    - See [here](/posts/sidefx) for details

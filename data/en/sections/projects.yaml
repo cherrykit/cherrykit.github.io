@@ -44,6 +44,13 @@ projects:
   summary: A real-time operating system written in C as well as user application to automatically route multiple model trains to random locations on a known train track.
   tags: ["software-dev"]
 
+- name: Pokemon Database
+  role: Group Member
+  timeline: "May 2021 - August 2021"
+  url: "/posts/cs348"
+  summary: A web application allowing users to look up information on Pokemon and generate team suggestions based on a set of owned Pokemon, written using Vue, Python and PostgreSQL.
+  tags: ["software-dev"]
+
 - name: VM
   #logo: /images/sections/projects/no-code.png
   role: Group Member
