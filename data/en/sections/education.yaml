@@ -18,7 +18,7 @@ degrees:
     url: "https://uwaterloo.ca/"
   grade: #(optional)
     scale: Major GPA
-    achieved: 97.22
+    achieved: 96.8
     outOf: 100
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.

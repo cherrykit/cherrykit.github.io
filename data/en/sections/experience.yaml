@@ -23,9 +23,9 @@ experiences:
     end: December 2022
     # give some points about what was your responsibilities at the company.
     responsibilities: 
-    - Investigated algorithms and methods for the detection of performance regressions in a system processing realtime financial data, ensuring the availability of a system used by major financial corporations
-    - Chose an anomaly detection algorithm suitable for the type of metric data available by evaluating the precision and recall of methods on sample data from the system
-    - Designed and implemented an application which uses the proposed algorithm to detect performance regressions, resolving issues before they impact clients
+    - Investigated algorithms and methods for the detection of performance regressions in Ticker Plant system, allowing detection of issues before they impact clients
+    - Identified suitable anomaly detection algorithms by evaluating their detection rate and accuracy on sample data from the system, ensuring that engineers can confidently halt code promotion upon detection of an issue
+    - Designed and implemented an application which uses the proposed algorithm to detect performance regressions, allowing resolution of issues without interruptions of service
 
 - company:
     name: Waabi
@@ -37,7 +37,8 @@ experiences:
     start: May 2022
     end: August 2022
     responsibilities:
-    - Developed and optimized trajectory prediction models to give the best predictions for vehicles that are important to the planning module of Waabi’s self-driving software, improving prediction metrics for these vehicles by 10%
+    - Redesigned trajectory prediction models in PyTorch to accurately simulate the behaviour of vehicles most important to the self-driving vehicle, improving prediction metrics for these vehicles by 10%
+    - Simulated behaviour of other vehicles for each potential future trajectory of the self-driving vehicle, allowing the self-driving vehicle to drive more proactively by accounting for realistic reactions of other vehicles
     - Presented a paper at an internal conference, reviewed other submissions for the conference and participated in discussions about presented topics
 
 - company:
@@ -51,16 +52,15 @@ experiences:
     end: April 2022
     responsibilities:
     - Created a novel distributed anomaly detection system for PDF documents by clustering encrypted confidential data, allowing multiple parties to share early warnings about potential malware
-    - Designed a custom PyTorch autoencoder to convert extracted features to a format suitable for inner product encryption, allowing distance computation between encrypted feature vectors without exposing other information
-    - Made architecture resilient against adversarial attacks by training autoencoder to be robust against small changes in PDFs, decreasing the number of misclassifications caused by such modifications by 50%
-    - Designed custom clustering algorithm to identify classes of similar PDFs based on distances between feature vectors, correctly grouping 94% of similar PDFs together and identifying 89% of existing classes
+    - Designed a custom PyTorch autoencoder which preserves the similarity of 94% of feature vectors while enabling encryption of feature vectors, allowing comparison of confidential files
+    - Improved resiliency against adversarial attacks by training autoencoder to be robust against small changes in PDFs, decreasing the number of misclassifications caused by such modifications by 50%
+    - Designed custom clustering algorithm to identify classes of similar PDFs based on distances between encrypted feature vectors, correctly identifying 89% of existing classes
     - See [here](/posts/urf) for details
   - designation: Undergraduate Research Assistanceship
     start: May 2021
     end: August 2021
     responsibilities:
-    - Created and implemented a new algorithm that reduces inequality comparisons over homomorphically encrypted data to a linear number of equality comparisons
-    - Significantly increased number of calculations possible over homomorphically encrypted data by reducing the amount of consecutive multiplications to a desired level while increasing the number of overall multiplications
+    - Implemented a new algorithm for inequality comparions over homomorphically encryped data that reduces the number of consecutive multiplications necessary, significantly increasing the total number of computations possible
     - See [here](/posts/ura) for details
 
 - company:
@@ -73,7 +73,7 @@ experiences:
     start: January 2021
     end: April 2021
     responsibilities:
-    - Created prototypes for a new editing tool in the Houdini 3D modeling and special effects software using C++, allowing users to reduce the stretching or contraction of texture maps
-    - Computed optimal shapes of triangles in mesh and used Least Squares Conformal Mapping algorithm with these shapes to obtain a modified texture map whose stretching and contraction is automatically reduced
-    - Allowed redistribution of stretching and contraction of texture maps through user-defined weights by using a harmonic map
+    - Created prototypes for a new editing tool in the Houdini 3D modeling and special effects software using C++, allowing artists to create better textures for 3D objects easier by reducing the stretching of texture maps
+    - Computed optimal shapes of triangles in mesh to obtain a texture mapping whose stretching and contraction is automatically reduced, allowing simple adjustments without requiring user input
+    - Allowed redistribution of stretching and contraction of texture maps through user-defined weights, ensuring that important portions of texture maps are not distorted on the 3D object
     - See [here](/posts/sidefx) for details

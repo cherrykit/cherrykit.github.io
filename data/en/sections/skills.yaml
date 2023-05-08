@@ -63,7 +63,7 @@ skills:
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Have used both Github and GitLab."
+  summary: "Experienced with git-based development. Have used both GitHub and GitLab."
   url: "https://git-scm.com/"
 
 
