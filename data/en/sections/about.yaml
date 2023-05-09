@@ -81,6 +81,8 @@ socialLinks:
 resourceLinks:
 - title: "My CV"
   url: "files/cv.pdf"
+- title: "My Resume"
+  url: "files/resume.pdf"
 - title: "My Transcript"
   url: "files/transcript.pdf"
 
