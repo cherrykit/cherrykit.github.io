@@ -77,3 +77,28 @@ experiences:
     - Computed optimal shapes of triangles in mesh to obtain a texture mapping whose stretching and contraction is automatically reduced, allowing simple adjustments without requiring user input
     - Allowed redistribution of stretching and contraction of texture maps through user-defined weights, ensuring that important portions of texture maps are not distorted on the 3D object
     - See [here](/posts/sidefx) for details
+
+- company:
+    name: Microsoft
+    url: "https://www.microsoft.com/"
+    location: Remote
+    overview: I worked as a full stack developer on the the ODSP Experiences Team, the team which owns the OneDrive.com, lists.live.com and the SharePoint web experiences.
+  positions:
+  - designation: Software Developer
+    start: May 2020
+    end: August 2020
+    responsibilities:
+    - Implemented formatting options and units for numbers in Microsoft Lists using TypeScript, React and C#, solving concerns of 5.5 million active users as identified through the analysis of telemetry data in Interana
+
+- company:
+    name: IBM
+    url: "https://www.sidefx.com/"
+    location: Toronto
+    overview: I worked on the Incentive Compensation Management sales compensation software, used by leading sales teams.
+  positions:
+  - designation: Software Developer
+    start: January 2021
+    end: April 2021
+    responsibilities:
+    - Wrote SQL scripts to fix corrupted client models and performed root cause analyses to prevent further corruption, ensuring clients can use the software without requiring support
+    - Implemented end-to-end feature exposing logs of client scripts to users using JavaScript, React, C# and SQL, allowing users to debug custom actions
